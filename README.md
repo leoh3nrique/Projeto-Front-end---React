@@ -4,13 +4,13 @@
 Projeto desenvolvido por mim no bootcamp da Labenu, utilzando o básico do React
 
 # Funcionalidades do Projeto 
-- o usuário pode adicionar itens ao carrinho
-- o usuário pode remover itens do carrinho
-- o usuário pode filtrar pelo nome, valor minimo, valor máximo
-- o usuário pode adicionar os seus itens favoritos na aba favoritos clicando no coração
+- `Funcionalidade 1`: O usuário pode adicionar itens ao carrinho
+- `Funcionalidade 2`: O usuário pode remover itens do carrinho
+- `Funcionalidade 3`: O usuário pode filtrar pelo nome, valor minimo, valor máximo
+- `Funcionalidade 4`: O usuário pode adicionar os seus itens favoritos na aba favoritos clicando no coração
 
 # Tecnlogias usadas
-- React
-- Javascript
-- Html
-- Css
+- `React.JS`
+- `Javascript` 
+- `Html`
+- `Css`
